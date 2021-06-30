@@ -29,7 +29,8 @@ O(n)
 
 // Q: Could you come up with a solution that has a better time complexity? If so, what is that time complexity?
 // ANSWER:
-
+answer = numbers[3]
+// O(1)
 
 // 2) -------------------------------------------------------
 function printA() {
